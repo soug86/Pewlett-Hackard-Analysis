@@ -48,7 +48,7 @@ This analysis involved getting the mentorship-eligibility table that holds the c
 ![b. Mentorship_Eligibility](Resources/Mentorship_Eligibility.png)
 #### *iv) The current criteria for Mentorship eligibility qualifies 1,500 candidates:*
 
-The current criteria for mentorship eligibility qualifies only 1,500 candidates which may not be enough for Pewlett-Hackard given that over 70,000 employees would be nearing retirement soon. Thus the criteria can be relooked *(e.g. include a wider date range)* into to increase the pool of candidates for Mentorship programme to increase the scope of training and skill-sharing to help Pewlett-Hackard bridge the huge shortfall in latent that it faces due to retirements.
+The current criteria for mentorship eligibility qualifies only 1,500 candidates which may not be enough for Pewlett-Hackard given that over 70,000 employees would be nearing retirement soon. Thus the criteria can be relooked *(e.g. include a wider date range)* into to increase the pool of candidates for Mentorship programme to increase the scope of training and skill-sharing to help Pewlett-Hackard bridge the huge shortfall in talent that it faces due to retirements.
 ## 3. Summary
 
 ### a. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
